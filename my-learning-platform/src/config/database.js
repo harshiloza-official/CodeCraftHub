@@ -1,4 +1,4 @@
-/ Importing required modules
+// Importing required modules
 const mongoose = require('mongoose');  // MongoDB ORM library
 const User = require('../models/userModel');  // User model (assuming it's defined in userModels.js)
 
